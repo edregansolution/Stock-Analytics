@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fresh-booster-197419",
+  "private_key_id": "cf9cd6cfe7961bdc8f9bef0f4abf432b4f0330c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCa5ks/cADC5BCU\n+YpHLzgujTiePw8g18Y73+G5DqzbT7p1xPR13LXWP/cZj7zpZIfZdVB/7R3xKaZK\nch0rqLjItJV/grzwf5wDfEwYRwgQ8+fJD50ed3ppCLzk1Egvjab2YARqIQx6Xbmf\nUcR8gouZPiJqhyqTXOJKztM3AxblRHLPEnuMo329zINyPvS/rCy2k4MncbJO08vC\nV4zEH6fDvRvKS7iLICeAzaDBxmHJfhy25FxCOXDuUOhVtAN7LkZE6eqSF2Tka/wQ\nOKfc0NPzgNgQUU2YUXjsG62d4bMBnTZ8pAipU/7qtTgDfOk+l2NvL/G3X2CLD0Pq\ncQNYNtF1AgMBAAECggEAIJYQAHF0h4to/Z4de+owHILzBT9o1FTwTApGNyMiNCTq\nqfncH6tlyYO9XPBDIqpWdeXbIH5mjSRg6kplXpjo/rgWtzNuwf1meck9TOIsjTxy\nZ3bUa+NgqhX/fvg1k2NuW2hJpXX8ZQWwlhaiijsAWSWcIeL7jvK8XFZ0Up9gwqw2\n3e9C+ZkNUnaRn1u4hwqjFLLCK2HIw3qABE6okXmhpsloqTVJ6BoweYBymaOLhBoH\nlCc3x7xEu55qMvKpbQPh2podiNpkdSD+DnyHF7gXkJ1Ih3w0y68o6gTUHy1D+obF\neRngb1FiM2tdQRHVALYrGihwh+thNfMHxeDi0LcuxQKBgQDHh384QWm+p19qPwK5\nKAHpegCNTMyA0Gxyr2AkEnIVre+axLpZO+b5HDsNNVOL9qIwAmih7GhnSmz5f3X9\nXboCTAP8jDWP0R1XC4v3pRS5ro6EVTZsPwQ3y70dtL8ig7i0SIYlCUJMgvQi4Ei1\nC2lzImQY/qLbHT6dgo0UUdlUMwKBgQDGvT1ZcsZ+uHkXh8UequYRj3cvTTGHenGb\nYoAJRP6ZmPeuwys59iZcZF6oYWxe4dohI2Uhr9DX4SToEkHhDxOe0UrwNvDUZbRg\nXNgb0OHKczPtCMyg603y6e6hXV1nensPSYm5MXrukemC+qF5/N0+ohtvi2m93seT\nSEGnNdzbtwKBgQCKMPANuFBSuX0+CrIKJwlb+SGUu5IPzUqvC4Pct+HH3hXK7WHb\nF7/a3JCRj1Nz5rdh5Oku7JtKnqNnEb5YYqfHm3pPWZRnLP/TH64rMGxwRdNzF8l/\now16z2MFxf9zGiO8yVYPJKCEeVY5KXlx2puIIFOPdBy7AUAyuw6W+jE5PQKBgEJ4\nAm/LOmYhjqZ3C0+Revc+k28nkzwrkJmWnRn8kGaQya4Sqn9tOzFFhH8ubk9hnFHf\nA7D7m47IR06y5IPARiClATpMNcnj5isggkrzVsEePKy3d7EOYfivktc3Ycj9JvFa\n+AwPZ30pIf9jkeQ51UlgcGqjJw+Q1hEFZqflFOQLAoGAMCYzVTY/zu6ZPY70WdNW\n06rg/ppud/BHWVTgyH58EXba6pyByHPzfxz2LzVhlVjlNmw+mlrb1UAe6dnSxlls\naeYONRhMyQUHjKhS9U2n4B2PskM9q2/yQna1IEoI0pkt+mugRyTaccIblVjA1CDl\ngFqdvxFndqBC44s/vSLDzlE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sentiment@fresh-booster-197419.iam.gserviceaccount.com",
+  "client_id": "108494744454027981570",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sentiment%40fresh-booster-197419.iam.gserviceaccount.com"
+}
